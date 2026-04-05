@@ -62,6 +62,3 @@ Always consult a doctor for proper diagnosis and treatment
 
 # Author
 Laxmi S
-✔ Help you write GitHub project description (one line)
-✔ Create a LinkedIn post for your project
-Just tell me 👍
