@@ -1,0 +1,51 @@
+disease,symptom1,symptom2,symptom3
+Flu,fever,cough,body_pain
+Common Cold,sneezing,runny_nose,cough
+Migraine,headache,nausea,sensitivity_to_light
+Dengue,fever,headache,joint_pain
+Malaria,fever,chills,sweating
+Typhoid,fever,weakness,stomach_pain
+Covid-19,fever,cough,loss_of_smell
+Asthma,shortness_of_breath,cough,chest_tightness
+Bronchitis,cough,fatigue,shortness_of_breath
+Pneumonia,fever,cough,chest_pain
+Tuberculosis,cough,weight_loss,night_sweats
+Chickenpox,fever,rash,itching
+Measles,fever,rash,runny_nose
+Mumps,fever,swollen_glands,headache
+Hepatitis,abdominal_pain,jaundice,fatigue
+Diabetes,frequent_urination,thirst,fatigue
+Hypertension,headache,dizziness,blurred_vision
+Heart Attack,chest_pain,shortness_of_breath,nausea
+Stroke,weakness,confusion,headache
+Allergy,sneezing,itching,runny_nose
+Food Poisoning,vomiting,diarrhea,stomach_pain
+Gastritis,stomach_pain,nausea,bloating
+Ulcer,stomach_pain,heartburn,nausea
+Appendicitis,abdominal_pain,fever,nausea
+Kidney Stones,back_pain,nausea,blood_in_urine
+Urinary Infection,burning_urination,frequent_urination,fever
+Arthritis,joint_pain,swelling,stiffness
+Osteoporosis,back_pain,bone_fracture,weak_bones
+Anemia,fatigue,pale_skin,dizziness
+Thyroid Disorder,weight_gain,fatigue,mood_changes
+Depression,sadness,fatigue,loss_of_interest
+Anxiety,restlessness,rapid_heartbeat,sweating
+Insomnia,difficulty_sleeping,fatigue,irritability
+Sinusitis,headache,facial_pain,nasal_congestion
+Ear Infection,ear_pain,fever,hearing_loss
+Eye Infection,redness,itching,watering
+Conjunctivitis,red_eye,itching,discharge
+Skin Allergy,itching,rash,redness
+Psoriasis,skin_rash,scaly_skin,itching
+Eczema,dry_skin,itching,rash
+Acne,pimples,oily_skin,inflammation
+Hair Loss,thinning_hair,hair_fall,scalp_visible
+Dandruff,itchy_scalp,flaky_skin,hair_fall
+Obesity,weight_gain,fatigue,breathlessness
+Dehydration,thirst,dizziness,dry_mouth
+Heat Stroke,high_temperature,confusion,headache
+Motion Sickness,nausea,dizziness,vomiting
+Vertigo,dizziness,loss_of_balance,nausea
+Back Pain,lower_back_pain,stiffness,muscle_spasm
+Neck Pain,neck_stiffness,headache,shoulder_pain
